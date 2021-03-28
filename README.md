@@ -10,14 +10,15 @@ Haxe Programming
 
 # Coding Languages
 
-HTML
-JS
-CSS
-Lua
-Haxe
+- [X] HTML
+- [X] JS
+- [X] CSS
+- [X] Lua
+- [ ] Haxe
 
 # Contact
-> DogePlayz#
+> DogePlayz#2584
+> 
 
 <!---
 DogePlayz-Dev/DogePlayz-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
