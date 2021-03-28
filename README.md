@@ -1,8 +1,23 @@
 - 👋 Hi, I’m @DogePlayz-Dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Intrests
+
+Coding
+Gaming
+
+# Learning
+
+Haxe Programming
+
+# Coding Languages
+
+HTML
+JS
+CSS
+Lua
+Haxe
+
+# Contact
+> DogePlayz#
 
 <!---
 DogePlayz-Dev/DogePlayz-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
